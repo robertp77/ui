@@ -1,4 +1,3 @@
-
 <template>
     <div id="app">
         <a :href="apiUrlBase + 'api/auth/login'">Login</a><br>
